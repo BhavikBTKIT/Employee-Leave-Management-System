@@ -1,6 +1,6 @@
 # Employee Leave Management System
 
-A MySQL 8.0+ database project that manages employees, departments, attendance, leave types, and leave requests.
+A MySQL database project that manages employees, departments, attendance, leave types, and leave requests.
 
 ## Included
 
@@ -11,7 +11,7 @@ A MySQL 8.0+ database project that manages employees, departments, attendance, l
 
 ## Run in MySQL Workbench
 
-1. Open MySQL Workbench and connect to your local MySQL server.
+1. Open MySQL Workbench and connect to local MySQL server.
 2. Open and run these files in order: `01_schema.sql`, `02_sample_data.sql`, `03_automation.sql`.
 3. Open `04_crud_and_reports.sql` and run individual sections to test the project.
 
